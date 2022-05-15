@@ -1,4 +1,7 @@
-# Requirements
+# Report
+## Absract
+Wiper is an essential component that used to wipe raindrops or water from the vehicle’s windscreen. Wipers are designed and made to clear the water from a windscreen. Most of cars have two wipers on the windscreen, one on the rear window and the other on each headlight. The wiper parts visible from outside the car are the rubber blade, the wiper arm holding the blade, a spring linkage, and parts of the wiper pivots. The wiper itself has about six parts called pressure points or claws that are small arms under the wiper.
+The prior system required manual wiper activation,by changing the frequency As its results the operation of bringing up the wiper speed is varied . The project's goals are to improve ageing cars' systems by giving automated transmission.wiping system, to improve the system by incorporating a sensor and actuator, and to create a simple software that would completely operate with the system.the framework This proposed wiper system's principle is comparable to those of other existing conventional wipers. Despite the fact that. This system will be upgraded to an automatic control system using a Peripheral Interface to remove water from the windscreen.
 ## Introduction
 A wiper speed control system for an automobile wiper regulates the operating speed of a wiper in accordance with the amount of rain falling on the windshield. This is a very much essential component in each automobile as it avoids the risk of accidents during rainy conditions.It useful in the automotive unit the main purpose of the system is to clean the windscreen sufficiently to provide suitable visibility at all times.
 ## Software Reqirements
@@ -59,3 +62,7 @@ To avoid accidents by getting a clear vision of a road.
 | LLR1 | switch on the wiper | HLR1 | IMPLEMENTED |
 | LLR2 | press push button for different operations | HLR2 | IMPLEMENTED |
 | LLR3 | switch off the wiper | HLR3 | IMPLEMENTED |
+## Wiper on various speeds
+![](https://github.com/Heiram/M3_Wiper_Control_System/blob/main/5_Report/Wiper%20on%20low%20speed.png)
+![](https://github.com/Heiram/M3_Wiper_Control_System/blob/main/5_Report/Wiper%20on%20moderate%20speed.png)
+![](https://github.com/Heiram/M3_Wiper_Control_System/blob/main/5_Report/Wiper%20on%20High%20speed.png)
