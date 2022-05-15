@@ -6,4 +6,3 @@
 ![Codiga Badge](https://api.codiga.io/project/33513/status/svg)
 ### Build on linux
 ![Build CI - Linux](https://github.com/Heiram/M3_Wiper_Control_System/actions/workflows/c-cpp.yml/badge.svg)]
-(https://github.com/Heiram/M3_Wiper_Control_System/actions/workflows/c-cpp.yml)
