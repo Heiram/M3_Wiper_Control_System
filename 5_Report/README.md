@@ -62,7 +62,3 @@ To avoid accidents by getting a clear vision of a road.
 | LLR1 | switch on the wiper | HLR1 | IMPLEMENTED |
 | LLR2 | press push button for different operations | HLR2 | IMPLEMENTED |
 | LLR3 | switch off the wiper | HLR3 | IMPLEMENTED |
-## Wiper on various speeds
-![](https://github.com/Heiram/M3_Wiper_Control_System/blob/main/5_Report/Wiper%20on%20low%20speed.png)
-![](https://github.com/Heiram/M3_Wiper_Control_System/blob/main/5_Report/Wiper%20on%20moderate%20speed.png)
-![](https://github.com/Heiram/M3_Wiper_Control_System/blob/main/5_Report/Wiper%20on%20High%20speed.png)
